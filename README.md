@@ -46,7 +46,7 @@
 
 ###
 
-<h6 align="left">🌎 Toronto, Canada<br>📧 <a href="mailto:a.dimech0515@gmail.com">a.dimech0515@gmail.com</a><br>🏫 Wilfrid Laurier University, BSc Computer Science</h6>
+<h5 align="left">🌎 Toronto, Canada<br>📧 <a href="mailto:a.dimech0515@gmail.com">a.dimech0515@gmail.com</a><br>🏫 Wilfrid Laurier University, BSc Computer Science</h5>
 
 ###
 
