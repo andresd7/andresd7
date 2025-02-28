@@ -2,7 +2,7 @@
 
 ###
 
-  <h4 align="left">🕸️ Web Stack</h4>
+  <h3 align="left">🕸️ Web Stack</h3>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h4 align="left">🛠️ Infra</h4>
+<h3 align="left">🛠️ Infra</h3>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h5 align="left">🔗 Socials</h5>
+<h4 align="left">🔗 Socials</h4>
 
 ###
 
